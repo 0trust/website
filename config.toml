@@ -1,4 +1,4 @@
-baseurl = "https://0trust.de/"
+baseurl = "0trust.netlify.com"
 languageCode = "en-us"
 title = "0TRUST"
 theme = ["hugo-creative-theme", "gohugo-theme-ananke"]
